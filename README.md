@@ -10,4 +10,5 @@ Pomodoro is a simple GUI-based Pomodoro timer application created using Tkinter 
 
 ## Preview 
 
-![Pomodoro Timer]([pomodoro.png](https://github.com/khushi-rajput04/Pomodoro-App/blob/main/img/pomodoro.png))
+![Pomodoro Timer](https://github.com/khushi-rajput04/Pomodoro-App/blob/main/img/pomodoro.png)
+
